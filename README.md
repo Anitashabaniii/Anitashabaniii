@@ -1,5 +1,5 @@
 
-< - 👋 Hi, I’m @Anitashabaniii HTML>
+< - 👋 Hi, I’m Anitashabaniii HTML>
 <HTML> 
 <head>
 < title>- 🌱 I’m shtepia e luleve</title>
